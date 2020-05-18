@@ -11,7 +11,6 @@ CSCI 241
 
 Sources Used:
 ---------------------
-https://stackoverflow.com/questions/5287538/how-can-i-get-the-user-input-in-java   
 https://stackoverflow.com/questions/16409155/merge-sort-comparison-counter
 https://www.codeproject.com/Questions/632289/counting-quicksort-comparisions
 ---------------------
